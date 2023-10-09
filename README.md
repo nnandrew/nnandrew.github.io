@@ -1,1 +1,2 @@
-# Personal Site WIP
+# Personal Site
+https://nnandrew.github.io/
